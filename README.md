@@ -91,9 +91,6 @@ Currently working on modern **UAV applications, full-stack apps, and cloud deplo
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" title="Django">
     <img src="https://skillicons.dev/icons?i=django" height="42" />
   </a>
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer" title="Swagger / OpenAPI">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/swagger/swagger.png" height="42" />
-  </a>
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer" title="Prisma ORM">
     <img src="https://skillicons.dev/icons?i=prisma" height="42" />
   </a>
@@ -116,22 +113,14 @@ Currently working on modern **UAV applications, full-stack apps, and cloud deplo
   </a>
 </p>
 
-<!-- ====== MOBILE / EMBEDDED ====== -->
-<h4 align="left">📱 Mobile, Embedded & Vision</h4>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" title="Arduino">
-    <img src="https://skillicons.dev/icons?i=arduino" height="42" />
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer" title="OpenCV">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="42" />
-  </a>
-</p>
-
 <!-- ====== TOOLS ====== -->
 <h4 align="left">🧰 Tools & Others</h4>
 <p align="left">
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="VS Code">
+    <img src="https://skillicons.dev/icons?i=vscode" height="42" />
+  </a>
   <a href="https://cursor.sh/" target="_blank" rel="noreferrer" title="Cursor IDE">
-    <img src="https://avatars.githubusercontent.com/u/165531189?s=200&v=4" height="42" />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandfetch.com%2Fcursor.com&psig=AOvVaw2-cjLkoOIWbBWj1yw4Lrdn&ust=1762352679141000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLiwwb3Z2JADFQAAAAAdAAAAABAE" height="42" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
     <img src="https://skillicons.dev/icons?i=git" height="42" />
@@ -148,8 +137,8 @@ Currently working on modern **UAV applications, full-stack apps, and cloud deplo
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux">
     <img src="https://skillicons.dev/icons?i=linux" height="42" />
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="VS Code">
-    <img src="https://skillicons.dev/icons?i=vscode" height="42" />
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer" title="OpenCV">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="42" />
   </a>
 </p>
 
