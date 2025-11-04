@@ -47,8 +47,14 @@ Currently working on modern **UAV applications, full-stack apps, and cloud deplo
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js">
     <img src="https://skillicons.dev/icons?i=nextjs" height="42" />
   </a>
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer" title="Zustand">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/zustand/zustand.png" height="42" />
+  </a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer" title="Redux">
     <img src="https://skillicons.dev/icons?i=redux" height="42" />
+  </a>
+  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer" title="Electron">
+    <img src="https://skillicons.dev/icons?i=electron" height="42" />
   </a>
   <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer" title="HTML5">
     <img src="https://skillicons.dev/icons?i=html" height="42" />
@@ -82,6 +88,12 @@ Currently working on modern **UAV applications, full-stack apps, and cloud deplo
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" title="Flask">
     <img src="https://skillicons.dev/icons?i=flask" height="42" />
   </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" title="Django">
+    <img src="https://skillicons.dev/icons?i=django" height="42" />
+  </a>
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer" title="Swagger / OpenAPI">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/swagger/swagger.png" height="42" />
+  </a>
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer" title="Prisma ORM">
     <img src="https://skillicons.dev/icons?i=prisma" height="42" />
   </a>
@@ -95,9 +107,6 @@ Currently working on modern **UAV applications, full-stack apps, and cloud deplo
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
     <img src="https://skillicons.dev/icons?i=mysql" height="42" />
-  </a>
-  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer" title="RabbitMQ">
-    <img src="https://skillicons.dev/icons?i=rabbitmq" height="42" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
     <img src="https://skillicons.dev/icons?i=docker" height="42" />
@@ -116,14 +125,14 @@ Currently working on modern **UAV applications, full-stack apps, and cloud deplo
   <a href="https://opencv.org/" target="_blank" rel="noreferrer" title="OpenCV">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="42" />
   </a>
-  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer" title="Electron">
-    <img src="https://skillicons.dev/icons?i=electron" height="42" />
-  </a>
 </p>
 
 <!-- ====== TOOLS ====== -->
 <h4 align="left">🧰 Tools & Others</h4>
 <p align="left">
+  <a href="https://cursor.sh/" target="_blank" rel="noreferrer" title="Cursor IDE">
+    <img src="https://avatars.githubusercontent.com/u/165531189?s=200&v=4" height="42" />
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
     <img src="https://skillicons.dev/icons?i=git" height="42" />
   </a>
@@ -143,6 +152,7 @@ Currently working on modern **UAV applications, full-stack apps, and cloud deplo
     <img src="https://skillicons.dev/icons?i=vscode" height="42" />
   </a>
 </p>
+
 
 
 ---
