@@ -3,7 +3,7 @@
 
 ---
 
-<h3 align="center">📫 How to reach me **bayramdikmenn@gmail.com**</h3>
+### 📫 How to reach me **[bayramdikmenn@gmail.com](mailto:bayramdikmenn@gmail.com)**
 
 ---
 
