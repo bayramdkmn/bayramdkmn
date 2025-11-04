@@ -10,7 +10,7 @@
 ### 🚀 About Me
 I’m a Software Engineer passionate about building **scalable web and mobile apps**.  
 Experienced in **React, Next.js, Spring Boot, and DevOps**, I love creating clean, performant, and user-focused software.  
-Currently working on modern **UAV applications, full-stack apps, and cloud deployment**.
+Currently working on modern **web and mobile app, full-stack apps, and cloud deployment**.
 
 ---
 
