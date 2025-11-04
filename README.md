@@ -10,15 +10,16 @@ Currently working on modern **UAV applications, full-stack apps, and cloud deplo
 
 ---
 
-<h3 align="left">Languages & Tools</h3>
+<h3 align="left">🧠 Languages & Tools</h3>
 
+<!-- ====== CORE LANGUAGES ====== -->
+<h4 align="left">🧩 Core Languages</h4>
 <p align="left">
-  <!-- Core Langs -->
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" height="42" />
-  </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript">
     <img src="https://skillicons.dev/icons?i=ts" height="42" />
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" height="42" />
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer" title="Python">
     <img src="https://skillicons.dev/icons?i=python" height="42" />
@@ -29,17 +30,14 @@ Currently working on modern **UAV applications, full-stack apps, and cloud deplo
   <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer" title="C#">
     <img src="https://skillicons.dev/icons?i=cs" height="42" />
   </a>
-  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer" title="C">
-    <img src="https://skillicons.dev/icons?i=c" height="42" />
-  </a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer" title="C++">
     <img src="https://skillicons.dev/icons?i=cpp" height="42" />
   </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer" title="Dart">
-    <img src="https://skillicons.dev/icons?i=dart" height="42" />
-  </a>
+</p>
 
-  <!-- Web Frontend -->
+<!-- ====== FRONTEND / WEB ====== -->
+<h4 align="left">🌐 Web & Frontend</h4>
+<p align="left">
   <a href="https://react.dev/" target="_blank" rel="noreferrer" title="React">
     <img src="https://skillicons.dev/icons?i=react" height="42" />
   </a>
@@ -67,8 +65,11 @@ Currently working on modern **UAV applications, full-stack apps, and cloud deplo
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma">
     <img src="https://skillicons.dev/icons?i=figma" height="42" />
   </a>
+</p>
 
-  <!-- Backend & APIs -->
+<!-- ====== BACKEND / API ====== -->
+<h4 align="left">⚙️ Backend & APIs</h4>
+<p align="left">
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer" title="Node.js">
     <img src="https://skillicons.dev/icons?i=nodejs" height="42" />
   </a>
@@ -81,14 +82,14 @@ Currently working on modern **UAV applications, full-stack apps, and cloud deplo
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" title="Flask">
     <img src="https://skillicons.dev/icons?i=flask" height="42" />
   </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" title="FastAPI">
-    <img src="https://skillicons.dev/icons?i=fastapi" height="42" />
-  </a>
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer" title="Prisma ORM">
     <img src="https://skillicons.dev/icons?i=prisma" height="42" />
   </a>
+</p>
 
-  <!-- Data & Infra -->
+<!-- ====== DATABASE / INFRA ====== -->
+<h4 align="left">🗄️ Databases & Infra</h4>
+<p align="left">
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title="PostgreSQL">
     <img src="https://skillicons.dev/icons?i=postgres" height="42" />
   </a>
@@ -104,11 +105,11 @@ Currently working on modern **UAV applications, full-stack apps, and cloud deplo
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" title="AWS">
     <img src="https://skillicons.dev/icons?i=aws" height="42" />
   </a>
+</p>
 
-  <!-- Mobile/Embedded & Vision -->
-  <a href="https://developer.android.com/" target="_blank" rel="noreferrer" title="Android">
-    <img src="https://skillicons.dev/icons?i=android" height="42" />
-  </a>
+<!-- ====== MOBILE / EMBEDDED ====== -->
+<h4 align="left">📱 Mobile, Embedded & Vision</h4>
+<p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" title="Arduino">
     <img src="https://skillicons.dev/icons?i=arduino" height="42" />
   </a>
@@ -118,8 +119,11 @@ Currently working on modern **UAV applications, full-stack apps, and cloud deplo
   <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer" title="Electron">
     <img src="https://skillicons.dev/icons?i=electron" height="42" />
   </a>
+</p>
 
-  <!-- Tools -->
+<!-- ====== TOOLS ====== -->
+<h4 align="left">🧰 Tools & Others</h4>
+<p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
     <img src="https://skillicons.dev/icons?i=git" height="42" />
   </a>
