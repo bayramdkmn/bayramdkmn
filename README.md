@@ -124,8 +124,9 @@ Currently working on modern **UAV applications, full-stack apps, and cloud deplo
     <img src="https://skillicons.dev/icons?i=vscode" height="42" />
   </a>
 <a href="https://cursor.sh/" target="_blank" rel="noreferrer" title="Cursor IDE">
-  <img src="https://avatars.githubusercontent.com/u/165531189?s=200&v=4" height="42" />
+  <img src="https://raw.githubusercontent.com/bayramdkmn/assets/main/cursor-icon.png" height="42" />
 </a>
+
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
     <img src="https://skillicons.dev/icons?i=git" height="42" />
   </a>
