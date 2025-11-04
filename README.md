@@ -3,6 +3,10 @@
 
 ---
 
+<h3 align="center">📫 How to reach me **berkay.kaynar65@gmail.com**</h3>
+
+---
+
 ### 🚀 About Me
 I’m a Software Engineer passionate about building **scalable web and mobile apps**.  
 Experienced in **React, Next.js, Spring Boot, and DevOps**, I love creating clean, performant, and user-focused software.  
@@ -119,9 +123,9 @@ Currently working on modern **UAV applications, full-stack apps, and cloud deplo
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="VS Code">
     <img src="https://skillicons.dev/icons?i=vscode" height="42" />
   </a>
-  <a href="https://cursor.sh/" target="_blank" rel="noreferrer" title="Cursor IDE">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandfetch.com%2Fcursor.com&psig=AOvVaw2-cjLkoOIWbBWj1yw4Lrdn&ust=1762352679141000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLiwwb3Z2JADFQAAAAAdAAAAABAE" height="42" />
-  </a>
+<a href="https://cursor.sh/" target="_blank" rel="noreferrer" title="Cursor IDE">
+  <img src="https://avatars.githubusercontent.com/u/165531189?s=200&v=4" height="42" />
+</a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
     <img src="https://skillicons.dev/icons?i=git" height="42" />
   </a>
@@ -142,14 +146,6 @@ Currently working on modern **UAV applications, full-stack apps, and cloud deplo
   </a>
 </p>
 
-
-
----
-
-### 🌟 Featured Projects
-- 🚁 [**UAV Planner**](https://github.com/bayramdkmn/planner) — TÜBİTAK-supported desktop app for autonomous drone flight control.  
-- 📚 [**E-Book Library System**](https://e-book-web-ebon.vercel.app) — Full-stack cross-platform digital library using React, Node.js, and TypeScript.  
-- 🧠 More projects on [my GitHub →](https://github.com/bayramdkmn)
 
 ---
 
